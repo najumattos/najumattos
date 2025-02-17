@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**najumattos/najumattos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">HELLO WORLD!! 👋👋</h2>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">Oi, eu sou a Julia!!!<br>Atualmente estou cursando técnico em Desenvolvimento de Sistemas e focando meus estudos em Programação Orientada a Objetos.<br>Além de programação eu gosto de livros principalmente de aventura e mistério, fazer doces e ultimamente estou viciada no nosso metal brasileiro  🤘</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=najumattos&radius=16&area=true&order=5&hide_border=true&hide_title=false&bg_color=1c6d37&color=46b35a&title_color=46b35a&line=46b35a&area_color=1c6d37&point=46b35a" height="186" alt="activity-graph graph"  />
+</div>
+
+###
