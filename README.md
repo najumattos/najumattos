@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Oi, eu sou a Ana!!!<br>Atualmente estou cursando técnico em Desenvolvimento de Sistemas e focando meus estudos em Programação Orientada a Objetos.<br>Além de programar eu gosto de livros e séries, estar na natureza, cozinhar e ultimamente estou viciada no nosso metal brasileiro 🤘</p>
+<p align="left">Oi, eu sou a Ana!!!<br>Atualmente estou cursando técnico em Desenvolvimento de Sistemas e focando meus estudos em Programação Orientada a Objetos.<br>Além de programar eu gosto de livros e séries, estar na natureza, cozinhar... 🤘</p>
 
 ###
 
