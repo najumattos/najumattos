@@ -18,8 +18,13 @@ Sou **analítica e pragmática**; prezo por **clareza e comunicação direta e a
 Desde sempre fui uma leitora assídua; em 2022, criei o *Clube do Livro* que se mantém ativo até hoje. Não gosto do clichê de que a leitura ou o **desenvolvimento de software** são uma "paixão", mas sim um **lugar onde minha mente analítica pode descansar**. Sempre gostei de desafios lógicos (como Testes de Einstein, quebra-cabeças, Sudoku) e esses jogos sempre fizeram minha mente relaxar; **enquanto estou estudando, meu cérebro se aconchega nas linhas do código assim como sempre me aconcheguei em uma boa leitura.**
 >"Programadores se comunicam pela linguagem de programação, mas, mais que isso, ser programador é prestar atenção no que você está programando enquanto programa, e então tentar fazer melhor."- O Programador Pragmático.
 
-##
+ <picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/najumattos/najumattos/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/najumattos/najumattos/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
 
+##
 No ecossistema **.NET** é onde me sinto em casa, mas busco entender as diferenças entre as tecnologias; cada uma tem seu lugar. Com tantas IAs que fazem tantas coisas, compartilho do pensamento do Tio Bob quando ele diz que **máquinas nunca serão tão minuciosas quanto humanos. Programadores sempre existirão por nossa capacidade em resolver problemas**, por identificar qual o melhor caminho e quais tecnologias utilizar. Quando estou estudando, busco sempre separar o que é regra de negócio do que é estrutura do sistema e especificação da linguagem. **A IA é só uma ferramenta e um código gerado por ela precisa ser revisado com cautela.**
 
 No comércio, aprendi que é guardando roupa que se aprende a vender: se você sabe onde as mercadorias estão, você sabe o que oferecer para o cliente. **Eu aprendo muito por observação, através de analogias, documentando meus projetos e lendo. Acredito que ter uma base teórica *SOLIDa* é o que vai me dar segurança para uma carreira em tecnologia**. Tecnologias vêm e vão, mas a base do que é programar sempre será a mesma — autores como Robert C. Martin, Andrew Hunt e David Thomas estão aí para nos ensinar isso. Por isso, gosto de refatorar meus códigos sempre que possível; **é refatorando que se aprende a programar, pois, para refatorar, precisamos entender o motivo que nos leva a reescrever o código. Código duplicado? Funções longas? Muitos IFs? É nessa análise que me torno uma programadora melhor.**
@@ -162,12 +167,6 @@ Eu quis escrever esse README com um tom mais pessoal porque programar está estr
 </table>
 
 ##
-
- <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/najumattos/najumattos/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/najumattos/najumattos/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25" /> Estou disponível para uma conversa técnica
 
