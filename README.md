@@ -77,7 +77,7 @@ Eu quis escrever esse README com um tom mais pessoal porque programar está estr
       </a>
       <br/><span>GitHub</span>
     </td>
-<td align="center" width="96">
+    <td align="center" width="96">
       <a href="https://www.microsoft.com/en-us/sql-server/">
         <img src="https://skillicons.dev/icons?i=mssql" width="48" height="48" alt="SQL Server" />
       </a>
@@ -145,11 +145,11 @@ Eu quis escrever esse README com um tom mais pessoal porque programar está estr
       </a>
       <br/><span>Angular</span>
     </td>
-<td align="center" width="96">
-      <a href="https://www.cursor.com/">
-        <img src="https://cdn.simpleicons.org/cursor/161616" width="48" height="48" alt="Cursor" />
+    <td align="center" width="96">
+      <a href="https://github.com/features/copilot">
+        <img src="https://cdn.simpleicons.org/githubcopilot/626262" width="48" height="48" alt="Copilot" />
       </a>
-      <br/><span>Cursor</span>
+      <br/><span>Copilot</span>
     </td>
     <td align="center" width="96">
       <a href="https://www.docker.com/">
@@ -158,10 +158,10 @@ Eu quis escrever esse README com um tom mais pessoal porque programar está estr
       <br/><span>Docker</span>
     </td>
     <td align="center" width="96">
-      <a href="https://www.postman.com/">
-        <img src="https://cdn.simpleicons.org/postman/FF6C37" width="48" height="48" alt="Postman" />
+      <a href="https://firebase.google.com/">
+        <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="48" height="48" alt="Firebase" />
       </a>
-      <br/><span>Postman</span>
+      <br/><span>Firebase</span>
     </td>
   </tr>
 </table>
