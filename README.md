@@ -12,10 +12,7 @@
     </table>
     
 Sou uma Desenvolvedora com foco em Arquitetura de Software, procuro compreender o problema e estruturar uma solução coerente, em vez de simplesmente escrever(ou gerar) código para produzir um resultado. O objetivo é criar softwares que sejam fáceis de ler, entender, manter e evoluir, já que programadores passam muito mais tempo lendo código do que escrevendo.
-> "Somos autores: escrevemos código para humanos, e não apenas para máquinas." - Robert C. Martin.
 
-
-Desde sempre fui uma leitora assídua; em 2022, criei o *Clube do Livro* que se mantém ativo até hoje. Encaro a leitura e a programação não como 'paixão', mas como o ambiente ideal para o meu perfil analítico. O hábito de resolver desafios de raciocínio lógico reflete diretamente no meu modo de estudar: leio código com o mesmo nível de atenção, método e busca por profundidade com que leio um livro ou escuto um Heavy Metal!
 >"Programadores se comunicam pela linguagem de programação, mas, mais que isso, ser programador é prestar atenção no que você está programando enquanto programa, e então tentar fazer melhor."- O Programador Pragmático.
 
  <picture align="center">
@@ -25,10 +22,6 @@ Desde sempre fui uma leitora assídua; em 2022, criei o *Clube do Livro* que se 
 </picture>
 
 ##
-No ecossistema **.NET** é onde me sinto em casa, mas busco entender as diferenças entre as tecnologias; cada uma tem seu lugar. Com tantas IAs que fazem tantas coisas, compartilho do pensamento do Tio Bob quando ele diz que **máquinas nunca serão tão minuciosas quanto humanos. Programadores sempre existirão por nossa capacidade em resolver problemas**, por identificar qual o melhor caminho e quais tecnologias utilizar. Quando estou estudando, busco sempre separar o que é regra de negócio do que é estrutura do sistema e especificação da linguagem. **A IA é só uma ferramenta e um código gerado por ela precisa ser revisado com cautela.**
-
-**Eu aprendo muito por observação, através de analogias, documentando meus projetos e lendo. Acredito que ter uma base teórica *SOLIDa* é o que vai me dar segurança para uma carreira em tecnologia**. Para mim, que estou construindo minha trajetória, é precipitado ter uma opinião formada sobre tudo, especialmente sobre o futuro do desenvolvimento de software na era da IA. Por isso, busco aprender com a experiência dos 'rockstars' da programação, mas sem tomar como verdade absoluta tudo o que chega até mim. **Alinhada ao pragmatismo de Linus Torvalds, valorizo resultados concretos em detrimento do entusiasmo por ferramentas**. A tecnologia é o meio, não o fim; por isso, adoto como regra de estudo **não aceitar ou aplicar código que eu não compreenda**. É nessa análise que me torno uma desenvolvedora melhor.
-
 Leitura, programação e música compartilham o mesmo espaço na minha forma de raciocinar. A complexidade do Rock Progressivo do Dream Theater e a precisão técnica do Iron Maiden refletem diretamente o que admiro em engenharia. Uma música bem composta funciona como um software bem arquitetado: cada instrumento cumpre uma responsabilidade única e bem definida. O resultado final pode não buscar a perfeição teórica, mas é pragmático, funcional e entrega valor real.
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Joystick.png" alt="Joystick" width="25" height="25" /> Linguagens e Ferramentas
